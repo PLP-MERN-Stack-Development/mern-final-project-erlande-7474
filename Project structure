@@ -1,0 +1,23 @@
+book-review-app/
+├── backend/
+│   ├── server.js
+│   ├── config/
+│   │   └── db.js
+│   ├── models/
+│   │   └── Book.js
+│   ├── routes/
+│   │   └── bookRoutes.js
+│   ├── controllers/
+│   │   └── bookController.js
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── components/
+│   │   │   ├── BookList.js
+│   │   │   ├── AddBook.js
+│   │   │   └── EditBook.js
+│   └── package.json
+│
+└── README.md
